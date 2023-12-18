@@ -22,6 +22,7 @@
     "tslib": "^2.3.0",
     "zone.js": "~0.14.2"
   },
+  
   "devDependencies": {
     "@angular-devkit/build-angular": "^17.0.6",
     "@angular/cli": "^17.0.6",
@@ -35,4 +36,5 @@
     "karma-jasmine-html-reporter": "~2.1.0",
     "typescript": "~5.2.2"
   }
+  
 }
